@@ -1,0 +1,1 @@
+ScoutingTreeProducerPlugins Scouting/NtupleMaker/plugins/TriggerMaker.cc Scouting/NtupleMaker/plugins/ObjectFilters.cc

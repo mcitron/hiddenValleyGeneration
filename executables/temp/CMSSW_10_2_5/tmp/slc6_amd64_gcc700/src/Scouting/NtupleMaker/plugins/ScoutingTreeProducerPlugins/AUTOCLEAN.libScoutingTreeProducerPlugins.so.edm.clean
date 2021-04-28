@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc700/pluginScoutingTreeProducerPlugins.so lib/slc6_amd64_gcc700/ScoutingTreeProducerPlugins.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc700

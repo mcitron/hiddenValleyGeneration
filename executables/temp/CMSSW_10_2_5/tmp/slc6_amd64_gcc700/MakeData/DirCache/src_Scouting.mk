@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=Scouting
+subdirs_src_Scouting = src_Scouting_NtupleMaker

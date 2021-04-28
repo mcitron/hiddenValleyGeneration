@@ -1,0 +1,2 @@
+portal,mass,ctau,xi
+photon,10,500,1
